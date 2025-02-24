@@ -1,0 +1,1 @@
+const val kt = "1000"
